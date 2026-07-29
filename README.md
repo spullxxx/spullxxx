@@ -7,7 +7,6 @@
 
   
 
-###  Ah, olá!
 Tenho **19 anos** e comecei a programar quando tinha **16**. Desde o início fui aprendendo tudo por conta própria, pesquisando, assistindo vídeos, lendo documentação e, principalmente, quebrando a cabeça até fazer as coisas funcionarem. Acho que foi assim que descobri que programação era realmente o que eu queria.
 
 Uma das áreas que mais me chama atenção é a **Inteligência Artificial**. Gosto de entender como ela funciona por trás dos panos e pensar em formas de usá-la para criar ferramentas, automatizar tarefas e transformar ideias em projetos reais.
