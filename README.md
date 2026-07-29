@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua a URL abaixo pela imagem que você quiser usar de banner se tiver uma, ou remova esta linha se preferir sem -->
-  <img <img width="1200" height="400" alt="o" src="https://github.com/user-attachments/assets/14958797-8ffd-4fc4-9d42-cb3cf08eceb4" />"
+  <img <img width="1200" height="400" alt="o" src="https://github.com/user-attachments/assets/14958797-8ffd-4fc4-9d42-cb3cf08eceb4" />
 
   <h2> E aí! Eu sou o Carlos Daniel</h2>
   <p>Entusiasta de Tecnologia | Desenvolvedor Autodidata | Hardware & Automações</p>
