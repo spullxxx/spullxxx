@@ -1,20 +1,13 @@
 <div align="center">
   <!-- Substitua a URL abaixo pela imagem que você quiser usar de banner se tiver uma, ou remova esta linha se preferir sem -->
-  <img src="https://vercel.app" width="100%" alt="Banner" />
+  <img <img width="1200" height="400" alt="o" src="https://github.com/user-attachments/assets/14958797-8ffd-4fc4-9d42-cb3cf08eceb4" />" />
 
-  <h2>👋 E aí! Eu sou o Carlos Daniel</h2>
+  <h2> E aí! Eu sou o Carlos Daniel</h2>
   <p>Entusiasta de Tecnologia | Desenvolvedor Autodidata | Hardware & Automações</p>
 
-  <!-- Badges de Tecnologias/Interesses principais -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="FrontEnd" />
-  <img src="https://shields.io" alt="AI" />
-</div>
+  
 
-<br />
-
-### 👋 Ah, olá!
+###  Ah, olá!
 Tenho **19 anos** e comecei a programar quando tinha **16**. Desde o início fui aprendendo tudo por conta própria, pesquisando, assistindo vídeos, lendo documentação e, principalmente, quebrando a cabeça até fazer as coisas funcionarem. Acho que foi assim que descobri que programação era realmente o que eu queria.
 
 Uma das áreas que mais me chama atenção é a **Inteligência Artificial**. Gosto de entender como ela funciona por trás dos panos e pensar em formas de usá-la para criar ferramentas, automatizar tarefas e transformar ideias em projetos reais.
@@ -35,7 +28,4 @@ Ainda tenho muito para aprender, mas estou sempre estudando, construindo novos p
 
 ---
 
-<div align="center">
-  <!-- Gráfico de estatísticas do seu perfil do GitHub (ele puxa seus dados automaticamente) -->
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</div>
+
